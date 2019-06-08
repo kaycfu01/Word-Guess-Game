@@ -73,7 +73,7 @@ function aud() {
         mewtwo.pause();
         r.pause();
         pikachu.play();
-        document.getElementById("image").src = "./assets/images/arther.gif";
+        document.getElementById("image").src = "./assets/images/pikachu.gif";
     }
     //Meowth Audio & Image
     //---------------------------
@@ -85,7 +85,7 @@ function aud() {
         mewtwo.pause();
         pikachu.pause();
         r.play();
-        document.getElementById("image").src = "./assets/images/rugrats.gif";
+        document.getElementById("image").src = "./assets/images/meowth.gif";
     }
     //Mewtwo Audio & Image
     //---------------------------
@@ -97,7 +97,7 @@ function aud() {
         r.pause();
         pikachu.pause();
         mewtwo.play();
-        document.getElementById("image").src = "./assets/images/simpsons.gif";
+        document.getElementById("image").src = "./assets/images/mewtwo.gif";
     }
     //Charmander Audio & Image
     //---------------------------
@@ -109,7 +109,7 @@ function aud() {
         r.pause();
         pikachu.pause();
         charmader.play();
-        document.getElementById("image").src = "./assets/images/scooby.gif";
+        document.getElementById("image").src = "./assets/images/charmander.gif";
     }
     //Squirtle Audio & Image
     //---------------------------
@@ -121,7 +121,7 @@ function aud() {
         pikachu.pause();
         charmander.pause();
         squirtle.play();
-        document.getElementById("image").src = "./assets/images/spongebob.gif";
+        document.getElementById("image").src = "./assets/images/squirtle.gif";
     }
     //Bulbasaur Audio & Image
     //---------------------------
@@ -133,7 +133,7 @@ function aud() {
         pikachu.pause();
         charmander.pause();
         b.play();
-        document.getElementById("image").src = "./assets/images/danny.gif";
+        document.getElementById("image").src = "./assets/images/bulb.gif";
     }
     //Eevee Audio & Image
     //---------------------------
@@ -145,7 +145,7 @@ function aud() {
         pikachu.pause();
         charmander.pause();
         eev.play();
-        document.getElementById("image").src = "./assets/images/teen.gif";
+        document.getElementById("image").src = "./assets/images/eevee.gif";
     }
 };
 
