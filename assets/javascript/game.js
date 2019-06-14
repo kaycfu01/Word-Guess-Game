@@ -85,7 +85,7 @@ function aud() {
         mewtwo.pause();
         pikachu.pause();
         r.play();
-        document.getElementById("image").src = "./assets/images/meowth.gif";
+        document.getElementById("image").src = "./assets/images/meowth.png";
     }
     //Mewtwo Audio & Image
     //---------------------------
